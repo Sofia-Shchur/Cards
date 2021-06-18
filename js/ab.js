@@ -5,7 +5,7 @@
  * Greeting Card Service Page
  *
  *   1. fix all errors (*.jpg not found 404)
- *   2. create newLine(level) function and call the function when position.left < positionLeft 
+ *   2. create newLine(level) function and call the function $('#a' + randNum).css({top: level * 100});
  *
  */
 
