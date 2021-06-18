@@ -4,11 +4,8 @@
  *
  * Greeting Card Service Page
  *
- *   1. Create new symbols.
- *   2. Create our gallery with premade postcards.
- *   3. Restore all bgr pictures
- *   4. Create arrows left, right, top, bottom
- *   5. Try to complete function toCenter
+ *   1. fix all errors (*.jpg not found 404)
+ *   2. create newLine(level) function and call the function when position.left < positionLeft 
  *
  */
 
